@@ -160,3 +160,16 @@ cython_debug/
 #.idea/
 
 docs
+
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Dependencies
+node_modules/
